@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe.config
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.MainForm.resources
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.pdb
+G:\Programacion II\3er bimestres\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe.config
+G:\Programacion II\3er bimestres\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe
+G:\Programacion II\3er bimestres\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.pdb
+G:\Programacion II\3er bimestres\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csprojResolveAssemblyReference.cache
+G:\Programacion II\3er bimestres\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.MainForm.resources
+G:\Programacion II\3er bimestres\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.GenerateResource.Cache
+G:\Programacion II\3er bimestres\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.exe
+G:\Programacion II\3er bimestres\CalculadoraCompleta\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.pdb
